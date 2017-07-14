@@ -8,24 +8,26 @@
 
 /* Begin PBXBuildFile section */
 		0960C7B91F19822A00F4F3BE /* LHXPopFlatButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 0960C7B71F19822A00F4F3BE /* LHXPopFlatButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		0960C7C11F19829200F4F3BE /* UIColor+FlatColors.h in Headers */ = {isa = PBXBuildFile; fileRef = 0960C7BF1F19829200F4F3BE /* UIColor+FlatColors.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		0960C7C21F19829200F4F3BE /* UIColor+FlatColors.m in Sources */ = {isa = PBXBuildFile; fileRef = 0960C7C01F19829200F4F3BE /* UIColor+FlatColors.m */; };
-		0960C7C71F19829A00F4F3BE /* VBFDoubleSegment.h in Headers */ = {isa = PBXBuildFile; fileRef = 0960C7C31F19829A00F4F3BE /* VBFDoubleSegment.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		0960C7C81F19829A00F4F3BE /* VBFDoubleSegment.m in Sources */ = {isa = PBXBuildFile; fileRef = 0960C7C41F19829A00F4F3BE /* VBFDoubleSegment.m */; };
-		0960C7C91F19829A00F4F3BE /* VBFPopFlatButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 0960C7C51F19829A00F4F3BE /* VBFPopFlatButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		0960C7CA1F19829A00F4F3BE /* VBFPopFlatButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 0960C7C61F19829A00F4F3BE /* VBFPopFlatButton.m */; };
+		0960C7D11F1983D200F4F3BE /* UIColor+FlatColors.h in Headers */ = {isa = PBXBuildFile; fileRef = 0960C7CB1F1983D200F4F3BE /* UIColor+FlatColors.h */; };
+		0960C7D21F1983D200F4F3BE /* UIColor+FlatColors.m in Sources */ = {isa = PBXBuildFile; fileRef = 0960C7CC1F1983D200F4F3BE /* UIColor+FlatColors.m */; };
+		0960C7D31F1983D200F4F3BE /* VBFDoubleSegment.h in Headers */ = {isa = PBXBuildFile; fileRef = 0960C7CD1F1983D200F4F3BE /* VBFDoubleSegment.h */; };
+		0960C7D41F1983D200F4F3BE /* VBFDoubleSegment.m in Sources */ = {isa = PBXBuildFile; fileRef = 0960C7CE1F1983D200F4F3BE /* VBFDoubleSegment.m */; };
+		0960C7D51F1983D200F4F3BE /* VBFPopFlatButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 0960C7CF1F1983D200F4F3BE /* VBFPopFlatButton.h */; };
+		0960C7D61F1983D200F4F3BE /* VBFPopFlatButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 0960C7D01F1983D200F4F3BE /* VBFPopFlatButton.m */; };
+		0960C7D91F19843B00F4F3BE /* pop.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0960C7D81F19843B00F4F3BE /* pop.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		0960C7B41F19822A00F4F3BE /* LHXPopFlatButton.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LHXPopFlatButton.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0960C7B71F19822A00F4F3BE /* LHXPopFlatButton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LHXPopFlatButton.h; sourceTree = "<group>"; };
 		0960C7B81F19822A00F4F3BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0960C7BF1F19829200F4F3BE /* UIColor+FlatColors.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIColor+FlatColors.h"; path = "../../VBFPopFlatButton/UIColor+FlatColors.h"; sourceTree = "<group>"; };
-		0960C7C01F19829200F4F3BE /* UIColor+FlatColors.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIColor+FlatColors.m"; path = "../../VBFPopFlatButton/UIColor+FlatColors.m"; sourceTree = "<group>"; };
-		0960C7C31F19829A00F4F3BE /* VBFDoubleSegment.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = VBFDoubleSegment.h; path = ../../VBFPopFlatButton/VBFPopFlatButtonClasses/VBFDoubleSegment.h; sourceTree = "<group>"; };
-		0960C7C41F19829A00F4F3BE /* VBFDoubleSegment.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = VBFDoubleSegment.m; path = ../../VBFPopFlatButton/VBFPopFlatButtonClasses/VBFDoubleSegment.m; sourceTree = "<group>"; };
-		0960C7C51F19829A00F4F3BE /* VBFPopFlatButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = VBFPopFlatButton.h; path = ../../VBFPopFlatButton/VBFPopFlatButtonClasses/VBFPopFlatButton.h; sourceTree = "<group>"; };
-		0960C7C61F19829A00F4F3BE /* VBFPopFlatButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = VBFPopFlatButton.m; path = ../../VBFPopFlatButton/VBFPopFlatButtonClasses/VBFPopFlatButton.m; sourceTree = "<group>"; };
+		0960C7CB1F1983D200F4F3BE /* UIColor+FlatColors.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIColor+FlatColors.h"; path = "VBFPopFlatButton/UIColor+FlatColors.h"; sourceTree = SOURCE_ROOT; };
+		0960C7CC1F1983D200F4F3BE /* UIColor+FlatColors.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIColor+FlatColors.m"; path = "VBFPopFlatButton/UIColor+FlatColors.m"; sourceTree = SOURCE_ROOT; };
+		0960C7CD1F1983D200F4F3BE /* VBFDoubleSegment.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = VBFDoubleSegment.h; path = VBFPopFlatButton/VBFPopFlatButtonClasses/VBFDoubleSegment.h; sourceTree = SOURCE_ROOT; };
+		0960C7CE1F1983D200F4F3BE /* VBFDoubleSegment.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = VBFDoubleSegment.m; path = VBFPopFlatButton/VBFPopFlatButtonClasses/VBFDoubleSegment.m; sourceTree = SOURCE_ROOT; };
+		0960C7CF1F1983D200F4F3BE /* VBFPopFlatButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = VBFPopFlatButton.h; path = VBFPopFlatButton/VBFPopFlatButtonClasses/VBFPopFlatButton.h; sourceTree = SOURCE_ROOT; };
+		0960C7D01F1983D200F4F3BE /* VBFPopFlatButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = VBFPopFlatButton.m; path = VBFPopFlatButton/VBFPopFlatButtonClasses/VBFPopFlatButton.m; sourceTree = SOURCE_ROOT; };
+		0960C7D81F19843B00F4F3BE /* pop.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = pop.framework; path = Carthage/Build/iOS/pop.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,6 +35,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0960C7D91F19843B00F4F3BE /* pop.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -44,6 +47,7 @@
 			children = (
 				0960C7B61F19822A00F4F3BE /* LHXPopFlatButton */,
 				0960C7B51F19822A00F4F3BE /* Products */,
+				0960C7D71F19843A00F4F3BE /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,16 +62,24 @@
 		0960C7B61F19822A00F4F3BE /* LHXPopFlatButton */ = {
 			isa = PBXGroup;
 			children = (
-				0960C7C31F19829A00F4F3BE /* VBFDoubleSegment.h */,
-				0960C7C41F19829A00F4F3BE /* VBFDoubleSegment.m */,
-				0960C7C51F19829A00F4F3BE /* VBFPopFlatButton.h */,
-				0960C7C61F19829A00F4F3BE /* VBFPopFlatButton.m */,
-				0960C7BF1F19829200F4F3BE /* UIColor+FlatColors.h */,
-				0960C7C01F19829200F4F3BE /* UIColor+FlatColors.m */,
+				0960C7CB1F1983D200F4F3BE /* UIColor+FlatColors.h */,
+				0960C7CC1F1983D200F4F3BE /* UIColor+FlatColors.m */,
+				0960C7CD1F1983D200F4F3BE /* VBFDoubleSegment.h */,
+				0960C7CE1F1983D200F4F3BE /* VBFDoubleSegment.m */,
+				0960C7CF1F1983D200F4F3BE /* VBFPopFlatButton.h */,
+				0960C7D01F1983D200F4F3BE /* VBFPopFlatButton.m */,
 				0960C7B71F19822A00F4F3BE /* LHXPopFlatButton.h */,
 				0960C7B81F19822A00F4F3BE /* Info.plist */,
 			);
 			path = LHXPopFlatButton;
+			sourceTree = "<group>";
+		};
+		0960C7D71F19843A00F4F3BE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				0960C7D81F19843B00F4F3BE /* pop.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -77,10 +89,10 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0960C7C91F19829A00F4F3BE /* VBFPopFlatButton.h in Headers */,
+				0960C7D11F1983D200F4F3BE /* UIColor+FlatColors.h in Headers */,
+				0960C7D51F1983D200F4F3BE /* VBFPopFlatButton.h in Headers */,
 				0960C7B91F19822A00F4F3BE /* LHXPopFlatButton.h in Headers */,
-				0960C7C71F19829A00F4F3BE /* VBFDoubleSegment.h in Headers */,
-				0960C7C11F19829200F4F3BE /* UIColor+FlatColors.h in Headers */,
+				0960C7D31F1983D200F4F3BE /* VBFDoubleSegment.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -153,9 +165,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0960C7C21F19829200F4F3BE /* UIColor+FlatColors.m in Sources */,
-				0960C7CA1F19829A00F4F3BE /* VBFPopFlatButton.m in Sources */,
-				0960C7C81F19829A00F4F3BE /* VBFDoubleSegment.m in Sources */,
+				0960C7D21F1983D200F4F3BE /* UIColor+FlatColors.m in Sources */,
+				0960C7D61F1983D200F4F3BE /* VBFPopFlatButton.m in Sources */,
+				0960C7D41F1983D200F4F3BE /* VBFDoubleSegment.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,6 +281,10 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
 				INFOPLIST_FILE = LHXPopFlatButton/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -287,6 +303,10 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
 				INFOPLIST_FILE = LHXPopFlatButton/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -315,6 +335,7 @@
 				0960C7BE1F19822A00F4F3BE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
