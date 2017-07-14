@@ -8,11 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		0960C7B91F19822A00F4F3BE /* LHXPopFlatButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 0960C7B71F19822A00F4F3BE /* LHXPopFlatButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		0960C7D11F1983D200F4F3BE /* UIColor+FlatColors.h in Headers */ = {isa = PBXBuildFile; fileRef = 0960C7CB1F1983D200F4F3BE /* UIColor+FlatColors.h */; };
+		0960C7D11F1983D200F4F3BE /* UIColor+FlatColors.h in Headers */ = {isa = PBXBuildFile; fileRef = 0960C7CB1F1983D200F4F3BE /* UIColor+FlatColors.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0960C7D21F1983D200F4F3BE /* UIColor+FlatColors.m in Sources */ = {isa = PBXBuildFile; fileRef = 0960C7CC1F1983D200F4F3BE /* UIColor+FlatColors.m */; };
-		0960C7D31F1983D200F4F3BE /* VBFDoubleSegment.h in Headers */ = {isa = PBXBuildFile; fileRef = 0960C7CD1F1983D200F4F3BE /* VBFDoubleSegment.h */; };
+		0960C7D31F1983D200F4F3BE /* VBFDoubleSegment.h in Headers */ = {isa = PBXBuildFile; fileRef = 0960C7CD1F1983D200F4F3BE /* VBFDoubleSegment.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0960C7D41F1983D200F4F3BE /* VBFDoubleSegment.m in Sources */ = {isa = PBXBuildFile; fileRef = 0960C7CE1F1983D200F4F3BE /* VBFDoubleSegment.m */; };
-		0960C7D51F1983D200F4F3BE /* VBFPopFlatButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 0960C7CF1F1983D200F4F3BE /* VBFPopFlatButton.h */; };
+		0960C7D51F1983D200F4F3BE /* VBFPopFlatButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 0960C7CF1F1983D200F4F3BE /* VBFPopFlatButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0960C7D61F1983D200F4F3BE /* VBFPopFlatButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 0960C7D01F1983D200F4F3BE /* VBFPopFlatButton.m */; };
 		0960C7D91F19843B00F4F3BE /* pop.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0960C7D81F19843B00F4F3BE /* pop.framework */; };
 /* End PBXBuildFile section */
